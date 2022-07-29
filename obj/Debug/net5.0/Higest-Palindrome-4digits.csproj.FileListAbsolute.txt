@@ -1,0 +1,16 @@
+C:\Users\wagne\Projetos\Higest-Palindrome-4digits\bin\Debug\net5.0\Higest-Palindrome-4digits.exe
+C:\Users\wagne\Projetos\Higest-Palindrome-4digits\bin\Debug\net5.0\Higest-Palindrome-4digits.deps.json
+C:\Users\wagne\Projetos\Higest-Palindrome-4digits\bin\Debug\net5.0\Higest-Palindrome-4digits.runtimeconfig.json
+C:\Users\wagne\Projetos\Higest-Palindrome-4digits\bin\Debug\net5.0\Higest-Palindrome-4digits.runtimeconfig.dev.json
+C:\Users\wagne\Projetos\Higest-Palindrome-4digits\bin\Debug\net5.0\Higest-Palindrome-4digits.dll
+C:\Users\wagne\Projetos\Higest-Palindrome-4digits\bin\Debug\net5.0\ref\Higest-Palindrome-4digits.dll
+C:\Users\wagne\Projetos\Higest-Palindrome-4digits\bin\Debug\net5.0\Higest-Palindrome-4digits.pdb
+C:\Users\wagne\Projetos\Higest-Palindrome-4digits\obj\Debug\net5.0\Higest-Palindrome-4digits.csproj.AssemblyReference.cache
+C:\Users\wagne\Projetos\Higest-Palindrome-4digits\obj\Debug\net5.0\Higest-Palindrome-4digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wagne\Projetos\Higest-Palindrome-4digits\obj\Debug\net5.0\Higest-Palindrome-4digits.AssemblyInfoInputs.cache
+C:\Users\wagne\Projetos\Higest-Palindrome-4digits\obj\Debug\net5.0\Higest-Palindrome-4digits.AssemblyInfo.cs
+C:\Users\wagne\Projetos\Higest-Palindrome-4digits\obj\Debug\net5.0\Higest-Palindrome-4digits.csproj.CoreCompileInputs.cache
+C:\Users\wagne\Projetos\Higest-Palindrome-4digits\obj\Debug\net5.0\Higest-Palindrome-4digits.dll
+C:\Users\wagne\Projetos\Higest-Palindrome-4digits\obj\Debug\net5.0\ref\Higest-Palindrome-4digits.dll
+C:\Users\wagne\Projetos\Higest-Palindrome-4digits\obj\Debug\net5.0\Higest-Palindrome-4digits.pdb
+C:\Users\wagne\Projetos\Higest-Palindrome-4digits\obj\Debug\net5.0\Higest-Palindrome-4digits.genruntimeconfig.cache
